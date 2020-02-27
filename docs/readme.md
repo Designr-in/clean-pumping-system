@@ -1,4 +1,4 @@
-# Clean your pumping system - user manual for Rukmani Housing Society, Vasind
+# Maintenance manual for Rukmani Housing Society, Vasind
 
 (this is a private manual and may not generally apply to your pumping system,
 if you are not the said housing society)
@@ -7,6 +7,8 @@ Clean the overhead tank first so that it is ready to use. This is easier to
 empty and refill. Only electronics in this sytem are the water level sensors
 usually. If there is something else in it, please refer to another relevant
 manual for your system.
+
+----
 
 ## Step 1
 
@@ -21,6 +23,8 @@ so that water wastage is minimised.
 
 ![Figure: step 1](images/drawing-1.svg)
 
+----
+
 ## Step 2
 
 Cleaning of the bottom tank.
@@ -28,6 +32,8 @@ Cleaning of the bottom tank.
 Remove water below pump level using buckets and clean the bottom tank.
 
 ![Figure: step 2](images/drawing-2.svg)
+
+----
 
 ## Step 3
 
@@ -41,6 +47,8 @@ very hard labor and difficult to empty the tank manually.
 
 ![Figure: step 3](images/drawing-3.svg)
 
+----
+
 ## Step 4
 
 Once you have checked the pumping system is working correctly with minimum
@@ -50,4 +58,9 @@ Once it is ensured that the pump is functional, fill bottom tank fully to
 resume normal operation.
 
 ![Figure: step 4](images/drawing-4.svg)
+
+----
+
+*Maintenance manual for cleaning water storage systems created by*
+[designr.in](https://desginr.in)
 
