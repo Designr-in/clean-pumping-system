@@ -1,3 +1,7 @@
+---
+title: VRINDAVAN WATER TANK CLEANING GUIDE
+---
+
 # Maintenance manual for cleaning water storage tanks
 
 **Simple cleaning guidelines for water storage tanks in the society**
