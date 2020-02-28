@@ -1,12 +1,24 @@
-# Maintenance manual for Rukmani Housing Society, Vasind
+# Maintenance manual for cleaning water storage tanks
 
-(this is a private manual and may not generally apply to your pumping system,
-if you are not the said housing society)
+**Simple cleaning guidelines for water storage tanks in the society**
 
-Clean the overhead tank first so that it is ready to use. This is easier to
-empty and refill. Only electronics in this sytem are the water level sensors
-usually. If there is something else in it, please refer to another relevant
-manual for your system.
+(this is a private manual for housing societies in Vrindavan, Vasind and may
+not generally apply to your pumping system, if you are not the said housing
+society)
+
+**You mostly know this, just take care of Step 3, which is most crucial, and
+most painful if missed; but feel free to follow along the whole guide**
+
+----
+
+## Step 0
+
+**First things first**
+ 
+*Clean the overhead tank first so that it is ready to use. This is easier to
+empty and refill. Only electrical/electronics in this system are the water
+level sensors usually. If there is something else in it, please refer to
+another relevant manual for your system.*
 
 ----
 
