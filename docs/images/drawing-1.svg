@@ -42,7 +42,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="272.75201"
+     inkscape:cx="184.89487"
      inkscape:cy="154.3129"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -71,15 +71,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-177.93748)">
-    <rect
-       style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+    <path
+       style="opacity:1;vector-effect:none;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       d="m 150.43452,180.15409 h 8.0563 V 212.4937 H 91.138901 v -32.33961 h 46.066459"
        id="rect10"
-       width="67.351921"
-       height="32.339611"
-       x="91.138901"
-       y="190.35944" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
     <rect
-       y="197.84837"
+       y="187.64302"
        x="91.673439"
        height="24.321526"
        width="66.015579"
@@ -89,11 +88,11 @@
        style="opacity:1;vector-effect:none;fill:#d30000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        id="path822"
        cx="95.415222"
-       cy="217.62093"
+       cy="207.41557"
        r="2.6726952" />
     <circle
        r="2.6726952"
-       cy="205.32652"
+       cy="195.12117"
        cx="95.415222"
        id="circle824"
        style="opacity:1;vector-effect:none;fill:#d30000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
@@ -101,63 +100,62 @@
        style="opacity:1;vector-effect:none;fill:#d30000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        id="circle826"
        cx="95.415222"
-       cy="194.36847"
+       cy="184.16312"
        r="2.6726952" />
-    <rect
-       y="254.50412"
-       x="18.976128"
-       height="32.339611"
-       width="67.351921"
-       id="rect828"
-       style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       d="m 78.15835,234.11235 h 8.056303 v 32.33962 H 18.86273 v -32.33962 h 46.066459"
+       id="rect10-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
     <rect
        style="opacity:1;vector-effect:none;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.27830188;marker:none"
        id="rect830"
        width="66.015579"
-       height="6.9490061"
+       height="7.326983"
        x="19.510666"
-       y="279.3656" />
+       y="258.19894" />
     <rect
        style="opacity:1;vector-effect:none;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        id="rect832"
        width="12.294398"
        height="5.0781207"
        x="66.015579"
-       y="279.36017" />
+       y="258.5715" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.5875,1.5875;stroke-dashoffset:0"
-       d="M 81.249934,279.36019 H 106.37327"
+       style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5875, 1.5875;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 81.249934,258.5715 H 106.37327"
        id="path834"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.09834576px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="107.02723"
-       y="280.4834"
+       y="259.69473"
        id="text838"><tspan
          sodipodi:role="line"
          id="tspan836"
          x="107.02723"
-         y="280.4834"
+         y="259.69473"
          style="stroke-width:0.26458332">pump level</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path859"
-       d="M 68.688266,197.84298 H 93.811602"
+       d="M 68.688266,187.63763 H 93.811602"
        style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5875, 1.5875;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        id="text863"
-       y="195.4917"
+       y="185.28635"
        x="43.149811"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.09834576px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="stroke-width:0.26458332"
-         y="195.4917"
+         y="185.28635"
          x="43.149811"
          id="tspan861"
          sodipodi:role="line">maximum water</tspan><tspan
          style="stroke-width:0.26458332"
-         y="201.86462"
+         y="191.65927"
          x="43.149811"
          sodipodi:role="line"
          id="tspan865">level</tspan></text>
@@ -165,29 +163,99 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.08913159px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="131.44319"
-       y="227.64555"
+       y="217.4402"
        id="text871"><tspan
          id="tspan869"
          sodipodi:role="line"
          x="131.44319"
-         y="227.64555"
+         y="217.4402"
          style="stroke-width:0.26458332">OVERHEAD TANK</tspan></text>
     <text
        id="text877"
-       y="252.23434"
+       y="231.44565"
        x="19.189989"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.08913159px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="stroke-width:0.26458332"
-         y="252.23434"
+         y="231.44565"
          x="19.189989"
          sodipodi:role="line"
          id="tspan875">UNDERGROUND TANK</tspan></text>
     <path
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 158.22276,193.04102 v 1.58593 l 4.28505,0 v 41.17578 H 93.820312 v 45.43555 H 78.310239 v 1.58789 H 95.40625 v -45.43555 h 68.68945 v -44.3496 z"
+       d="m 158.22276,182.83567 v 1.58593 h 4.28505 v 41.17578 H 93.820312 v 34.32305 H 78.310239 v 1.58789 H 95.40625 v -34.32305 h 68.68945 v -44.3496 z"
        id="path895"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63983393px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07000434;stroke-miterlimit:4;stroke-dasharray:none"
+       x="19.136965"
+       y="283.6499"
+       id="text1032"><tspan
+         sodipodi:role="line"
+         x="19.136965"
+         y="283.6499"
+         style="stroke-width:0.07000434"
+         id="tspan1184">1. Cut inlet supply into underground tank and make sure you</tspan><tspan
+         sodipodi:role="line"
+         x="19.136965"
+         y="289.44971"
+         style="stroke-width:0.07000434"
+         id="tspan844">pumped enough water in overhead tank after it is cleaned so</tspan><tspan
+         sodipodi:role="line"
+         x="19.136965"
+         y="295.24948"
+         style="stroke-width:0.07000434"
+         id="tspan846">that you have water available duing maintenance operations</tspan></text>
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 1.1334636,236.10742 v 1.58789 H 19.276042 v -1.58789 z"
+       id="path1254"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.53079295px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="2.2030563"
+       y="241.91368"
+       id="text1262"><tspan
+         id="tspan1260"
+         sodipodi:role="line"
+         x="2.2030563"
+         y="241.91368"
+         style="stroke-width:0.26458332">supply</tspan><tspan
+         sodipodi:role="line"
+         x="2.2030563"
+         y="246.32718"
+         style="stroke-width:0.26458332"
+         id="tspan1268">water </tspan><tspan
+         sodipodi:role="line"
+         x="2.2030563"
+         y="250.74068"
+         style="stroke-width:0.26458332"
+         id="tspan1266">inlet</tspan></text>
+    <circle
+       style="opacity:1;vector-effect:none;fill:#d30000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916676;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       id="path822-6"
+       cx="23.8125"
+       cy="261.37918"
+       r="2.6726952" />
+    <circle
+       r="2.6726952"
+       cy="249.08475"
+       cx="23.8125"
+       id="circle824-7"
+       style="opacity:1;vector-effect:none;fill:#d30000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916676;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+    <circle
+       style="opacity:1;vector-effect:none;fill:#d30000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916676;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       id="circle826-5"
+       cx="23.8125"
+       cy="238.12672"
+       r="2.6726952" />
+    <path
+       style="fill:none;stroke:#ee0000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79375, 1.5875;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 14.211906,229.41784 v 13.22917"
+       id="path848"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
