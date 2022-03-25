@@ -79,5 +79,5 @@ resume normal operation.
 
 *Maintenance manual for cleaning water storage systems. 
 Created and maintained by*
-[designr.in](https://desginr.in)
+[designr.in](https://designr.in)
 
